@@ -1,0 +1,6 @@
+module Pods_WorldNewsTestAppForPecode {
+  umbrella header "Pods-WorldNewsTestAppForPecode-umbrella.h"
+
+  export *
+  module * { export * }
+}
